@@ -31,9 +31,9 @@ REPORT_URLS = [
     ],
     [
         "group f",
-        "<Name>",
+        "fibonacci",
         # Report Release URL:
-        "https://github.com/<TBA>/<TBA>.zip",
+        "https://github.com/lauralunddahl/DevOps-GroupF/releases/tag/v1-final.zip",
     ],
     [
         "group g",
